@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/secret/secret",
+    "pages/hall/hall",
+    "pages/mine/mine"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "NICE",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#888",
+    "selectedColor": "#89bdf7",
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "我的",
+        "iconPath": "image/mine.png",
+        "selectedIconPath": "image/mine_active.png"
+      },
+      {
+        "pagePath": "pages/hall/hall",
+        "text": "大厅",
+        "iconPath": "image/hall.png",
+        "selectedIconPath": "image/hall_active.png"
+      },
+      {
+        "pagePath": "pages/secret/secret",
+        "text": "秘密",
+        "iconPath": "image/secret.png",
+        "selectedIconPath": "image/secret_active.png"
+      }
+    ]
+  }
+}

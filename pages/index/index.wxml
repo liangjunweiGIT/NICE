@@ -13,7 +13,4 @@
   <view class="remark">
     <text class="user-motto">{{remark}}</text>
   </view>
-  <view class="copyright">
-    <text class="user-motto">\n{{copyright}}</text>
-  </view>
 </view>

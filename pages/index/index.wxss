@@ -17,14 +17,10 @@
 }
 
 .usermotto {
-  margin-top: 60%;
+  margin-top: 150px;
   color: deepskyblue;
   font-size: 230%;
 }
 .remark {
   color: rgba(0, 191, 255, 0.534);
-}
-.copyright {
-  font-size: 70%;
-  color: #aaa;
 }
